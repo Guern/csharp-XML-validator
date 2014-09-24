@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Person xmlns="myNamespace">
+  <Name>John</Name>
+  <Address>123 test dr</Address>
+  <City>Chevy Chase</City>
+  <State>MD</State>
+  <Zip></Zip>
+</Person>
